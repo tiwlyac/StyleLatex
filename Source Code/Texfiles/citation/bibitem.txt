@@ -1,0 +1,10 @@
+FUNCTION {{output.bibitem}}
+{{ newline$
+  "\bibitem[" write$
+  {0} write$
+  "]{{" write$
+  cite$ write$
+  "}}" write$
+  newline$
+  ""
+}}

@@ -1,0 +1,34 @@
+\documentclass[a4paper]{article}
+\usepackage{fontspec}
+\usepackage[top=1in,left=1in,right=1in,bottom=1in]{geometry}
+
+
+\title{Bibliology Preview}
+\date{}
+
+\defaultfontfeatures{Mapping=tex-text}
+
+\begin{document}
+\maketitle
+\fontspec{Angsana New}
+\fontsize{18}{22}\selectfont
+\pagenumbering{gobble}
+\noindent
+This is Article in Journal (article). \cite{article}\\
+This is Book (book). \cite{book}\\
+This is Booklet (booklet). \cite{booklet}\\
+This is Conference (conference). \cite{conference}\\
+This is Chapter or Pages in a Book (inbook). \cite{inbook}\\
+This is Article in a Collection (incollection). \cite{incollection}\\
+This is Article in The Proceedings of a Conference (inproceedings). \cite{inproceedings}\\
+This is Technical Manual (manual). \cite{manual}\\
+This is Master's Thesis (mastersthesis). \cite{mastersthesis}\\
+This is Miscellaneous (misc). \cite{misc}\\
+This is PhD.Thesis (phdthesis). \cite{phdthesis}\\
+This is The Proceedings of a Conference. \cite{proceedings}\\
+This is Technical Report. \cite{techreport}\\
+This is Unpublished (unpublished). \cite{unpublished}\\
+\bibliography{mybib}
+\bibliographystyle{bib_style}
+
+\end{document}

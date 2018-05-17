@@ -1,0 +1,4 @@
+C:\Users\Anun Chaichomphoo\Documents\Visual Studio 2017\Projects\StyleLatex\StyleLatex\bin\Debug\x86\pdfium.dll
+C:\Users\Anun Chaichomphoo\Documents\Visual Studio 2017\Projects\StyleLatex\StyleLatex\bin\Debug\StyleLatex.exe
+C:\Users\Anun Chaichomphoo\Documents\Visual Studio 2017\Projects\StyleLatex\StyleLatex\bin\Debug\PdfiumViewer.dll
+C:\Users\Anun Chaichomphoo\documents\visual studio 2017\Projects\StyleLatex\StyleLatex\bin\Debug\System.Data.SQLite.dll

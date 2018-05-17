@@ -1,0 +1,61 @@
+\begin{thebibliography}{}
+
+\bibitem[Adams et~al., 1993]{article}
+Peter Adams, Alan Wake, and Wake Uppor. The title of the work. The name of the
+  journal. 1993. 4. 2. 201-213. 7. An optional note.
+
+\bibitem[Caxton, 1993]{booklet}
+Peter Caxton. The title of the work. How it was published. The address of the
+  publisher. 7. 1993. An optional note.
+
+\bibitem[de~la fontaine, 1993]{book}
+Jean de~la fontaine. The title of the work. 4. 10. The name of the publisher.
+  The address. 3. 7. 1993. An optional note.
+
+\bibitem[Draper, 1993]{conference}
+Peter Draper. The title of the work. The editor. The title of the book. 5. 213.
+  7. 1993. The address of the publisher. The organization. The publisher. An
+  optional note.
+
+\bibitem[Eston, 1993]{inbook}
+Peter Eston. The title of the work. 4. 5. The name of the publisher. The
+  address of the publisher. 3. 7. 1993. 8. 201-213. An optional note.
+
+\bibitem[Farindon, 1993]{incollection}
+Peter Farindon. The title of the work. The editor. The title of the book. 5. 8.
+  201-213. The name of the publisher. The address of the publisher. 3. 7. 1993.
+  An optional note.
+
+\bibitem[Gainsford, 1993]{manual}
+Peter Gainsford. The title of the work. The organization. The address of the
+  publisher. 3. 7. 1993. An optional note.
+
+\bibitem[Harwood, 1993]{mastersthesis}
+Peter Harwood. The title of the work. The school of the thesis. The address of
+  the publisher. 7. 1993. An optional note.
+
+\bibitem[Isley, 1993]{misc}
+Peter Isley. The title of the work. How it was published. 7. 1993. An optional
+  note.
+
+\bibitem[Joslin, 1993]{phdthesis}
+Peter Joslin. The title of the work. The school of the thesis. The address of
+  the publisher. 7. 1993. An optional note.
+
+\bibitem[Kidwelly, 1993]{proceedings}
+Peter Kidwelly. The title of the work. 5. 7. 1993. The address of the
+  publisher. The organization. The name of the publisher. An optional note.
+
+\bibitem[Lambert, 1993]{techreport}
+Peter Lambert. The title of the work. The institution that published. 2. The
+  address of the publisher. 7. 1993. An optional note.
+
+\bibitem[Marcheford, 1993]{unpublished}
+Peter Marcheford. The title of the work. 7. 1993. An optional note.
+
+\bibitem[Parker, 1999]{inproceedings}
+Peter Parker. The title of the work. The editor. The title of the book. 7. 210.
+  2. 1999. The address of the publisher. The organization. The publisher. An
+  optional note.
+
+\end{thebibliography}
